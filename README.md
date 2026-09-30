@@ -17,6 +17,6 @@ Requiere un servidor con CGI, Perl y los módulos CGI, DBI y el controlador de M
 
 ## Alcance
 
-Trabajo académico con configuración histórica de laboratorio. La [primera entrega](https://github.com/JheraldC/TrabajoFinal-PrimeraEntrega) se conserva como antecedente.
+Trabajo académico con configuración histórica de laboratorio. La [primera entrega](https://github.com/JheraldC/trabajo-academico-web-perl-cgi-avance) se conserva como antecedente.
 
 El repositorio conserva un ejercicio académico. La documentación describe el uso previsto; no certifica una ejecución reciente ni resultados de rendimiento.
